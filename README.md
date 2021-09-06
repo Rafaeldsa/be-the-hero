@@ -1,7 +1,7 @@
 # Be-The-Hero
 
-**[Frontend]** (https://bethehero777.netlify.app/)
-**[Backend]** (https://be-the-hero777.herokuapp.com/)
+**[Frontend]**(https://bethehero777.netlify.app/)
+**[Backend]**(https://be-the-hero777.herokuapp.com/)
 
 Semana Omnistack finalizada! Concluído o desenvolvimento do Be The Hero, aplicação para ONGs cadastrarem casos em que qualquer pessoa interessada em ajudar possa ver e entrar em contato.
 
